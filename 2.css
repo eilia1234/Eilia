@@ -1,6 +1,6 @@
-  @import url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;700&display=swap');
 body {
-  font-family: 'Vazirmatn', sans-serif;
+font-family: 'Vazirmatn', sans-serif;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -8,17 +8,16 @@ body {
   direction: rtl;
   background-color: #0000008b;
   margin: 0;
-}
-
+ }
 .product-container {
-  display: flex;
+ display: flex;
   width: 85%;
   max-width: 1100px;
   background: #fff;
   box-shadow: 0 0 10px rgba(0,0,0,0.1);
   border-radius: 12px;
   overflow: hidden;
-  }
+}
 
 .left, .center, .right {
   padding: 20px;
